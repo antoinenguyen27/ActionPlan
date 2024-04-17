@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC3aXbAkU0PXb2B2qO5cZr8WlExrIPmlD0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>605438947807</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.loakal.actionplan</string>
+	<key>PROJECT_ID</key>
+	<string>actionplan-qmnjbb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>actionplan-qmnjbb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:605438947807:ios:cfb91dfa5fdbfc2518146a</string>
+</dict>
+</plist>
