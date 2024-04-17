@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605438947807",
+    "project_id": "actionplan-qmnjbb",
+    "storage_bucket": "actionplan-qmnjbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605438947807:android:86c4c16f9176463918146a",
+        "android_client_info": {
+          "package_name": "com.loakal.actionplan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4nYIdtKHdEPmbTBYBoxTuvCVaq3rago"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605438947807:android:47f433cb7b32361e18146a",
+        "android_client_info": {
+          "package_name": "com.mycompany.actionplan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4nYIdtKHdEPmbTBYBoxTuvCVaq3rago"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
